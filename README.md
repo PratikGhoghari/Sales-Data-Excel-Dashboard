@@ -40,5 +40,5 @@ Shows the number of customers by category, helping to analyze customer distribut
 
 ### 8. **Dashboard**
 This sheet is intended for generating visual summaries or dashboards based on the data.
-
+![Excel Sales Dashboard](https://github.com/PratikGhoghari/Sales-Data-Excel-Dashboard/blob/main/sales%20dashboard.png)
 ---
