@@ -2,6 +2,11 @@
 
 This repository contains a comprehensive dataset related to sales performance, profit, and customer information. The data is organized across multiple sheets to provide detailed insights into various sales metrics. Below is an overview of each sheet and its content.
 
+### **Dashboard**
+This sheet is intended for generating visual summaries or dashboards based on the data.
+
+![Excel Sales Dashboard](https://github.com/PratikGhoghari/Sales-Data-Excel-Dashboard/blob/main/sales%20dashboard.png)
+
 ## File Structure
 
 ### 1. **sales by category**
@@ -38,8 +43,4 @@ A detailed sheet containing transactional-level data with the following columns:
 ### 7. **customer count**
 Shows the number of customers by category, helping to analyze customer distribution across different product lines.
 
-### 8. **Dashboard**
-This sheet is intended for generating visual summaries or dashboards based on the data.
-
-![Excel Sales Dashboard](https://github.com/PratikGhoghari/Sales-Data-Excel-Dashboard/blob/main/sales%20dashboard.png)
 ---
